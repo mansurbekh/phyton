@@ -1,0 +1,6 @@
+a = int(input("son kiriting\n>>>"))
+if a%2==1 and a>0:print("musbat toq son")
+elif a%2==0 and a<0:print("manfiy juft son")
+elif  a==0: print("son 0 ga teng ekan")
+elif a%2==0 and a>0:print("musbat juft son")
+elif a%2==1 and a<0:print("manfiy toq son")
